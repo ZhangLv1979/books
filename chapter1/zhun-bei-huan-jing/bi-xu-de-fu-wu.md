@@ -1,4 +1,4 @@
-安装服务
+安装ntp服务
 
 **RHEL/CentOS/Oracle 6**
 
