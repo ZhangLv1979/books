@@ -34,18 +34,6 @@
    priority=1
    ```
 
-   **Base URL for a Local Repository**
-
-   **Built with Repository Tarball**  
-   \(No Internet Access\)  
-   [http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt;](http://<web.server>/Ambari-2.5.0.3/<OS&gt);
-
-   **Built with Repository File**  
-   \(Temporary Internet Access\)  
-   [http://&lt;web.server&gt;/ambari/&lt;OS&gt;/Updates-Ambari-2.5.0.3](http://<web.server>/ambari/<OS>/Updates-Ambari-2.5.0.3)
-
-   where &lt;web.server&gt; = FQDN of the web server host, and &lt;OS&gt; is centos6, centos7, sles11, sles12, , ubuntu14, or debian7.
-
 3. Place the ambari.repo file on the machine you plan to use for the Ambari Server.
 
    **For RHEL/CentOS/Oracle Linux:**
