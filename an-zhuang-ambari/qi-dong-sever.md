@@ -1,18 +1,18 @@
 ## 启动 Ambari Server
 
-* Run the following command on the Ambari Server host:
+* 启动:
 
   ```
   ambari-server start
   ```
 
-* To check the Ambari Server processes:
+* 检查状态:
 
   ```
   ambari-server status
   ```
 
-* To stop the Ambari Server:
+* 停止:
 
   ```
   ambari-server stop
