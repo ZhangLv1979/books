@@ -10,7 +10,7 @@ mkdir -p /var/www/html/
 
 解压你的安装压缩包到web根目录下面
 
-确保你的web服务可以访问
+确保你的web服务可以访问，并且目录结构和截图一致
 
 **Ambari Base URL**
 
