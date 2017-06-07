@@ -14,13 +14,13 @@ mkdir -p /var/www/html/
 
 **Ambari Base URL**
 
-http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt;
+[http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS](http://<web.server>/Ambari-2.5.0.3/<OS&gt)&gt;
 
 **HDP Base URL**
 
-http://&lt;web.server&gt;/hdp/HDP/&lt;OS&gt;/2.x/updates/&lt;latest.version&gt;
+[http://&lt;web.server&gt;/hdp/HDP/&lt;OS&gt;/2.x/updates/&lt;latest.version&gt](http://<web.server>/hdp/HDP/<OS>/2.x/updates/<latest.version&gt);
 
 **HDP-UTILS Base URL**
 
-http://&lt;web.server&gt;/hdp/HDP-UTILS-&lt;version&gt;/repos/&lt;OS&gt;
+[http://&lt;web.server&gt;/hdp/HDP-UTILS-&lt;version&gt;/repos/&lt;OS&gt](http://<web.server>/hdp/HDP-UTILS-<version>/repos/<OS&gt);
 
