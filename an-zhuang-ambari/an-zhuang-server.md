@@ -4,5 +4,5 @@
 yum repolist
 ```
 
-
+![](/assets/b1.png)
 
