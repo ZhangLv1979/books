@@ -10,4 +10,5 @@
     * [设置账号](chapter1/zhun-bei-huan-jing/she-zhi-zhang-hao.md)
     * [必须的ntp服务](chapter1/zhun-bei-huan-jing/bi-xu-de-fu-wu.md)
     * [检查网络](chapter1/jian-cha-zhu-ji-ming.md)
+    * [防火墙](chapter1/zhun-bei-huan-jing/fang-huo-qiang.md)
 
