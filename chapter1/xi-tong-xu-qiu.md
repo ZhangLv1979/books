@@ -58,3 +58,14 @@
 
 
 
+**HDP 2.6.0 JDK Support**
+
+| JDK | Version |
+| :--- | :--- |
+| Open Source | JDK8† |
+|  | JDK7†, deprecated |
+| Oracle | JDK 8, 64-bit \(minimum JDK 1.8.0\_77\), default |
+|  | JDK 7, 64-bit \(minimum JDK 1.7\_67\), deprecated |
+
+
+
