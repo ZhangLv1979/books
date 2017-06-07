@@ -67,9 +67,7 @@
 | Oracle | JDK 8, 64-bit \(minimum JDK 1.8.0\_77\), default |
 |  | JDK 7, 64-bit \(minimum JDK 1.7\_67\), deprecated |
 
-
-
-### Database Requirements
+### 数据库需求
 
 
 
