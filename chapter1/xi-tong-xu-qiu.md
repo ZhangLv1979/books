@@ -1,4 +1,4 @@
-**Ambari 2.5.0 操作系统支持**
+**Ambari 2.5.0 服务器操作系统支持**
 
 | Operating System | Version |
 | :--- | :--- |
