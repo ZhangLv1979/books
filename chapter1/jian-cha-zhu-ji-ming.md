@@ -14,10 +14,7 @@
    ```
 
    ```
-   HOSTNAME=
-   <
-   fully.qualified.domain.name
-   >
+   HOSTNAME=<fully.qualified.domain.name>
    ```
 
 
