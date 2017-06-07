@@ -1,5 +1,3 @@
-### Preparing The Ambari Repository Configuration File
-
 1. Download the`ambari.repo`file from the public repository.
 
    ```
@@ -48,29 +46,32 @@
 
    **Base URL for a Local Repository**
 
-   **Built with Repository Tarball**
-   \(No Internet Access\)
-   http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt;
+   **Built with Repository Tarball**  
+   \(No Internet Access\)  
+   [http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt](http://<web.server>/Ambari-2.5.0.3/<OS&gt);
 
-   **Built with Repository File**
-   \(Temporary Internet Access\)
-   http://&lt;web.server&gt;/ambari/&lt;OS&gt;/Updates-Ambari-2.5.0.3
+   **Built with Repository File**  
+   \(Temporary Internet Access\)  
+   [http://&lt;web.server&gt;/ambari/&lt;OS&gt;/Updates-Ambari-2.5.0.3](http://<web.server>/ambari/<OS>/Updates-Ambari-2.5.0.3)
 
    where &lt;web.server&gt; = FQDN of the web server host, and &lt;OS&gt; is centos6, centos7, sles11, sles12, , ubuntu14, or debian7.
 
 3. Place the ambari.repo file on the machine you plan to use for the Ambari Server.
 
    **For RHEL/CentOS/Oracle Linux:**
+
    ```
    /etc/yum.repos.d/ambari.repo
    ```
 
    **For SLES:**
+
    ```
    /etc/zypp/repos.d/ambari.repo
    ```
 
    **For Debain/Ubuntu:**
+
    ```
    /etc/apt/sources.list.d/ambari.list
    ```
