@@ -8,5 +8,7 @@
 
 \#\#\#Ambari![](/assets/d1.png)
 
-\#\#\#HDFS![](/assets/hdfs.png)
+\#\#\#HDFS![](/assets/hdfs.png)\#\#\#Hive
+
+![](/assets/hive.png)
 
