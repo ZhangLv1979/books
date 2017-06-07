@@ -15,9 +15,7 @@
    enabled=0
    ```
 
-3. UMASK \(User Mask or User file creation MASK\) sets the default permissions or base permissions granted when a new file or folder is created on a Linux machine. Most Linux distros set 022 as the default umask value. A umask value of 022 grants read, write, execute permissions of 755 for new files or folders. A umask value of 027 grants read, write, execute permissions of 750 for new files or folders.
-
-   Ambari & support umask values of 022 \(0022 is functionally equivalent\), 027 \(0027 is functionally equivalent\). These values must be set on all hosts.
+3. UMASK设置成0022
 
    **UMASK Examples**:
 
