@@ -1,6 +1,6 @@
 #### 修改网卡设置
 
-1. Using a text editor, open the network configuration file on every host and set the desired network configuration for each host. For example:
+1. 修改网卡设置
 
    ```
    vi /etc/sysconfig/network
