@@ -24,7 +24,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
     authorized_keys
    ```
 
-5. Depending on your version of SSH, you may need to set permissions on the .ssh directory \(to 700\) and the authorized\_keys file in that directory \(to 600\) on the target hosts.
+5. 需要设置目录权限
 
    ```
    chmod 700 ~/.ssh
