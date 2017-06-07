@@ -18,10 +18,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
 4. 把公钥加入到每台节点机的信任列表中.
 
    ```
-   cat id_rsa.pub 
-   >
-   >
-    authorized_keys
+   cat id_rsa.pub >> authorized_keys
    ```
 
 5. 需要设置节点机上的目录权限
