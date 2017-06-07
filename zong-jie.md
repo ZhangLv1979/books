@@ -10,5 +10,7 @@
 
 \#\#\#HDFS![](/assets/hdfs.png)\#\#\#Hive
 
-![](/assets/hive.png)
+![](/assets/hive.png)\#\#\#HBase
+
+![](/assets/hbase.png)
 
