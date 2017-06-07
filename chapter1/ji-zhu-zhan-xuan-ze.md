@@ -1,6 +1,6 @@
 ## 技术栈选择
 
-Use this table to determine whether your Ambari and HDP stack versions are compatible.
+从下表中选择你的兼容性目标。
 
 \* Ambari does not install Hue or HDP Search \(Solr\).
 
