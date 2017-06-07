@@ -10,3 +10,17 @@ mkdir -p /var/www/html/
 
 解压你的安装压缩包到web根目录下面
 
+确保你的web服务可以访问
+
+**Ambari Base URL**
+
+http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt;
+
+**HDP Base URL**
+
+http://&lt;web.server&gt;/hdp/HDP/&lt;OS&gt;/2.x/updates/&lt;latest.version&gt;
+
+**HDP-UTILS Base URL**
+
+http://&lt;web.server&gt;/hdp/HDP-UTILS-&lt;version&gt;/repos/&lt;OS&gt;
+
