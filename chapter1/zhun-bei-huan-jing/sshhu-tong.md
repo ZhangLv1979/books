@@ -42,11 +42,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
 
 7. 如果出现下面的提示，选yes，这个提示应该只出现一回，再次测试应该不会出现:`Are you sure you want to continue connecting (yes/no)?`
 
-8. Retain a copy of the SSH Private Key on the machine from which you will run the web-based Ambari Install Wizard.
-
-   | ![](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-installation/common/images/admon/note.png "\[Note\]") | Note |
-   | :--- | :--- |
-   |  | It is possible to use a non-root SSH account, if that account can execute`sudo`without entering a password. |
+8. 备份一份密钥，请使用root，不用root也是可以的，但是可能有很多需要设置的地方，不建议。
 
 
 
