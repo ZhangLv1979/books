@@ -8,3 +8,13 @@ yum repolist
 
 ![](/assets/b2.png)
 
+
+
+安装ambari-server
+
+```
+yum install ambari-server
+```
+
+
+
