@@ -13,4 +13,5 @@
     * [防火墙](chapter1/zhun-bei-huan-jing/fang-huo-qiang.md)
     * [其他安全设置](chapter1/zhun-bei-huan-jing/qi-ta-an-quan-she-zhi.md)
     * [使用本地安装](chapter1/zhun-bei-huan-jing/shi-yong-ben-di-an-zhuang.md)
+      * [下载安装文件](chapter1/zhun-bei-huan-jing/shi-yong-ben-di-an-zhuang/xia-zai-an-zhuang-wen-jian.md)
 
