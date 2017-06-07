@@ -16,6 +16,8 @@ mkdir -p /var/www/html/
 
 [http://&lt;web.server&gt;/Ambari-2.5.0.3/centos6](http://<web.server>/Ambari-2.5.0.3/centos6)
 
+![](/assets/a1.png)
+
 **HDP Base URL**
 
 [http://&lt;web.server&gt;/hdp/HDP/&lt;OS&gt;/2.x/updates/&lt;latest.version&gt;](http://<web.server>/hdp/HDP/<OS>/2.x/updates/<latest.version&gt);
