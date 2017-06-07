@@ -26,7 +26,7 @@ chkconfig --list ntpd
 systemctl is-enabled ntpd
 ```
 
-To set the NTP service to auto-start on boot, run the following command on each host:
+设置开机启动
 
 **RHEL/CentOS/Oracle 6**
 
