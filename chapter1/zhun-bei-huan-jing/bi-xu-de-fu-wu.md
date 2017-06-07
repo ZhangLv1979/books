@@ -12,7 +12,7 @@ yum install -y ntp
 yum install -y ntp
 ```
 
-To check that the NTP service will be automatically started upon boot, run the following command on each host:
+检查服务
 
 **RHEL/CentOS/Oracle 6**
 
