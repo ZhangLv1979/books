@@ -12,5 +12,7 @@ chkconfig --list ntpd
 
 3.启动ntp服务
 
+```
 
+```
 
