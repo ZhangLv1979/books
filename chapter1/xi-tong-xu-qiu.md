@@ -83,7 +83,7 @@ Ambari安装中可以选择安装数据库，一般来说不必在意本节内�
 
 Ambari 主机最少需要 1 GB RAM, 500 MB 空闲的.
 
-To check available memory on any host, run:
+运行以下命令检查你的内存
 
 `free -m`
 
