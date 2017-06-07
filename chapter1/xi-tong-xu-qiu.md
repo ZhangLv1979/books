@@ -33,7 +33,7 @@
 
 ### 软件环境
 
-On each of your hosts:
+在你的集群中，每台主机上都要安装:
 
 * `yum`and`rpm`\(RHEL/CentOS/Oracle Linux\)
 
