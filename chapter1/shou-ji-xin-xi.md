@@ -6,11 +6,7 @@
   hostname -f
   ```
 
-  to check or verify the FQDN of a host.
-
-  | ![](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-installation/common/images/admon/note.png "\[Note\]") | Note |
-  | :--- | :--- |
-  |  | Deploying all components on a single host is possible, but is appropriate only for initial evaluation purposes. Typically, you set up at least three hosts; one master host and two slaves, as a minimum cluster. |
+  在一个节点上安装全部功能是可以的，但是一般至少3个节点，1主2副。
 
 * A list of components you want to set up on each host.
 
