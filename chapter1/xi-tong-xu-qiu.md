@@ -17,7 +17,7 @@
 | Ubuntu \(64-bit\) | Ubuntu 16.04 \(Xenial\) |
 |  | Ubuntu 14.04 \(Trusty\) |
 
-**Ambari 2.5.0 浏览器支持**
+### **Ambari 2.5.0 浏览器支持**
 
 | Operating System | Browser |
 | :--- | :--- |
