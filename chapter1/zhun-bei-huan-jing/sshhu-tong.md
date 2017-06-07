@@ -5,7 +5,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
 2. ```
    ssh-keygen
    ```
-3. Copy the SSH Public Key \(id\_rsa.pub\) to the root account on your target hosts.
+3. 拷贝公钥到每台节点机上.
 
    ```
    .ssh/id_rsa
