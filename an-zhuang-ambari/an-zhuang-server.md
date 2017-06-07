@@ -4,5 +4,7 @@
 yum repolist
 ```
 
-![](/assets/b1.png)检查结果如图，有ambari的repo出现了
+
+
+检查结果如图，有ambari的repo出现了
 
