@@ -14,5 +14,11 @@ yum repolist
 yum install -y ambari-server
 ```
 
+设置ambari-server
+
+```
+ambari-server setup
+```
+
 
 
