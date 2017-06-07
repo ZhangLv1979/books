@@ -9,4 +9,5 @@
     * [SSH互通](chapter1/zhun-bei-huan-jing/sshhu-tong.md)
     * [设置账号](chapter1/zhun-bei-huan-jing/she-zhi-zhang-hao.md)
     * [必须的ntp服务](chapter1/zhun-bei-huan-jing/bi-xu-de-fu-wu.md)
+    * [检查主机名](chapter1/jian-cha-zhu-ji-ming.md)
 
