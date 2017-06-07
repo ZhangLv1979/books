@@ -1,11 +1,7 @@
-1. Download the`ambari.repo`file from the public repository.
+1. 下载`ambari.repo`.
 
    ```
-   http://public-repo-1.hortonworks.com/ambari/
-   <
-   OS
-   >
-   /2.x/updates/2.5.0.3/ambari.repo
+   http://public-repo-1.hortonworks.com/ambari/<OS>/2.x/updates/2.5.0.3/ambari.repo
    ```
 
    where &lt;OS&gt; is centos6, centos7, sles11, sles12, ubuntu14, ubuntu16, or debian7.
@@ -48,7 +44,7 @@
 
    **Built with Repository Tarball**  
    \(No Internet Access\)  
-   [http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt](http://<web.server>/Ambari-2.5.0.3/<OS&gt);
+   [http://&lt;web.server&gt;/Ambari-2.5.0.3/&lt;OS&gt;](http://<web.server>/Ambari-2.5.0.3/<OS&gt);
 
    **Built with Repository File**  
    \(Temporary Internet Access\)  
