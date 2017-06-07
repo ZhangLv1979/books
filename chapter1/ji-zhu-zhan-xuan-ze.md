@@ -8,7 +8,3 @@ Use this table to determine whether your Ambari and HDP stack versions are compa
 
 
 
-|  |  |
-| :--- | :--- |
-|  |  |
-
