@@ -19,7 +19,7 @@
    ```
 
    ```
-   gpgcheck=1
+   gpgcheck=0
    ```
 
    ```
