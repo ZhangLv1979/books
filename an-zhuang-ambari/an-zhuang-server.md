@@ -20,5 +20,5 @@ yum install -y ambari-server
 ambari-server setup
 ```
 
-
+首先要选择java版本，如果本机已经装过jdk8，选择自定义，然后输入路径。
 
