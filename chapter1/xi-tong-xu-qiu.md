@@ -115,13 +115,15 @@ Ambari 主机最少需要 1 GB RAM, 500 MB 空闲的.
 
 ### 检查最大文件打开数限制
 
-The recommended maximum number of open file descriptors is 10000, or more. To check the current value set for the maximum number of open file descriptors, execute the following shell commands on each host:
+推荐 10000以上。
+
+在每台集群机上运行一下命令检查。
 
 `ulimit -Sn`
 
 `ulimit -Hn`
 
-If the output is not greater than 10000, run the following command to set it to a suitable default:
+小于10000的运行下面的代码来修改。
 
 `ulimit -n 10000`
 
