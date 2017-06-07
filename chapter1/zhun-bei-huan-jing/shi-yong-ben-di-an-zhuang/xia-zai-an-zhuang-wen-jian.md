@@ -28,3 +28,54 @@
 
 
 
+##### HDP 2.6 Repositories
+
+
+
+| **OS** | **Version Number** | **Repository Name** | **Format** | **URL** |
+| :--- | :--- | :--- | :--- | :--- |
+| RedHat 6CentOS 6Oracle Linux 6 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/centos6/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/centos6/2.x/updates/2.6.0.3 |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/centos6/2.x/updates/2.6.0.3/hdp.repo |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/centos6/2.x/updates/2.6.0.3/HDP-2.6.0.3-centos6-rpm.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/centos6/2.x/updates/2.6.0.3/HDP-2.6.0.3-centos6-rpm.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/centos6/2.x/updates/2.6.0.3/HDP-2.6.0.3-centos6-rpm.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos6 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos6/HDP-UTILS-1.1.0.21-centos6.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos6/HDP-UTILS-1.1.0.21-centos6.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos6/HDP-UTILS-1.1.0.21-centos6.tar.gz |
+| RedHat 7CentOS 7Oracle Linux 7 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3 |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3/hdp.repo |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3/HDP-2.6.0.3-centos7-rpm.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3/HDP-2.6.0.3-centos7-rpm.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3/HDP-2.6.0.3-centos7-rpm.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos7 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos7/HDP-UTILS-1.1.0.21-centos7.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos7/HDP-UTILS-1.1.0.21-centos7.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/centos7/HDP-UTILS-1.1.0.21-centos7.tar.gz |
+| SLES 12 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/sles12/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/sles12/2.x/updates/2.6.0.3/ |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/sles12/2.x/updates/2.6.0.3/hdp.repo |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/sles12/2.x/updates/2.6.0.3/HDP-2.6.0.3-sles12-rpm.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/sles12/2.x/updates/2.6.0.3/HDP-2.6.0.3-sles12-rpm.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/sles12/2.x/updates/2.6.0.3/HDP-2.6.0.3-sles12-rpm.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/sles12 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/sles12/HDP-UTILS-1.1.0.21-sles12.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/sles12/HDP-UTILS-1.1.0.21-sles12.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/sles12/HDP-UTILS-1.1.0.21-sles12.tar.gz |
+| SLES 11 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/suse11sp3/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/suse11sp3/2.x/updates/2.6.0.3/ |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/suse11sp3/2.x/updates/2.6.0.3/hdp.repo |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/suse11sp3/2.x/updates/2.6.0.3/HDP-2.6.0.3-suse11sp3-rpm.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/suse11sp3/2.x/updates/2.6.0.3/HDP-2.6.0.3-suse11sp3-rpm.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/suse11sp3/2.x/updates/2.6.0.3/HDP-2.6.0.3-suse11sp3-rpm.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/suse11sp3 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/suse11sp3/HDP-UTILS-1.1.0.21-suse11sp3.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/suse11sp3/HDP-UTILS-1.1.0.21-suse11sp3.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/suse11sp3/HDP-UTILS-1.1.0.21-suse11sp3.tar.gz |
+| Ubuntu 14 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/ubuntu14/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/ubuntu14/2.x/updates/2.6.0.3/ |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/ubuntu14/2.x/updates/2.6.0.3/hdp.list |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/ubuntu14/2.x/updates/2.6.0.3/HDP-2.6.0.3-ubuntu14-deb.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/ubuntu14/2.x/updates/2.6.0.3/HDP-2.6.0.3-ubuntu14-deb.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/ubuntu14/2.x/updates/2.6.0.3/HDP-2.6.0.3-ubuntu14-deb.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu14 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu14/HDP-UTILS-1.1.0.21-ubuntu14.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu14/HDP-UTILS-1.1.0.21-ubuntu14.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu14/HDP-UTILS-1.1.0.21-ubuntu14.tar.gz |
+| Ubuntu 16 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/ubuntu16/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/ubuntu16/2.x/updates/2.6.0.3/ |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/ubuntu16/2.x/updates/2.6.0.3/hdp.list |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/ubuntu16/2.x/updates/2.6.0.3/HDP-2.6.0.3-ubuntu16-deb.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/ubuntu16/2.x/updates/2.6.0.3/HDP-2.6.0.3-ubuntu16-deb.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/ubuntu16/2.x/updates/2.6.0.3/HDP-2.6.0.3-ubuntu16-deb.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu16 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu16/HDP-UTILS-1.1.0.21-ubuntu16.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu16/HDP-UTILS-1.1.0.21-ubuntu16.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/ubuntu16/HDP-UTILS-1.1.0.21-ubuntu16.tar.gz |
+| Debian7 | HDP-2.6.0.3 | HDP | Version Definition File \(VDF\) | http://public-repo-1.hortonworks.com/HDP/debian7/2.x/updates/2.6.0.3/HDP-2.6.0.3-8.xml |
+|  |  |  | Base URL | http://public-repo-1.hortonworks.com/HDP/debian7/2.x/updates/2.6.0.3/ |
+|  |  |  | Repo File | http://public-repo-1.hortonworks.com/HDP/debian7/2.x/updates/2.6.0.3/hdp.list |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP/debian7/2.x/updates/2.6.0.3/HDP-2.6.0.3-debian7-deb.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP/debian7/2.x/updates/2.6.0.3/HDP-2.6.0.3-debian7-deb.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP/debian7/2.x/updates/2.6.0.3/HDP-2.6.0.3-debian7-deb.tar.gz |
+|  |  | HDP-UTILS | Base URL | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/debian7 |
+|  |  |  | Tarball[md5](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/debian7/HDP-UTILS-1.1.0.21-debian7.tar.gz.md5)\|[asc](http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/debian7/HDP-UTILS-1.1.0.21-debian7.tar.gz.asc) | http://public-repo-1.hortonworks.com/HDP-UTILS-1.1.0.21/repos/debian7/HDP-UTILS-1.1.0.21-debian7.tar.gz |
+
+
+
