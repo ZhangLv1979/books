@@ -1,4 +1,4 @@
-**Ambari 2.5.0 服务器操作系统支持**
+### **Ambari 2.5.0 服务器操作系统支持**
 
 | Operating System | Version |
 | :--- | :--- |
@@ -47,13 +47,13 @@ On each of your hosts:
 
 * Python
 
-  **For SLES 11:**
+  **For SLES 11:**  
   Python 2.6.x
 
-  **For SLES 12:**
+  **For SLES 12:**  
   Python 2.7.x
 
-  **For CentOS 7, Ubuntu 14, Ubuntu 16, and Debian 7:**
+  **For CentOS 7, Ubuntu 14, Ubuntu 16, and Debian 7:**  
   Python 2.7.x
 
 
