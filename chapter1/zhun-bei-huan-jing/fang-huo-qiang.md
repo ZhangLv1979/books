@@ -1,8 +1,4 @@
-集群内部最好关掉防火墙
-
-### Configuring iptables
-
-For Ambari to communicate during setup with the hosts it deploys to and manages, certain ports must be open and available. The easiest way to do this is to temporarily disable iptables, as follows:
+安装时集群内部最好关掉防火墙，关掉每台节点上的防火墙
 
 **RHEL/CentOS/Oracle Linux 6**
 
