@@ -14,7 +14,7 @@ mkdir -p /var/www/html/
 
 **Ambari Base URL**
 
-&lt;[http://&lt;web.server&gt;/Ambari-2.5.0.3/](http://<web.server>/Ambari-2.5.0.3/<OS&gt)centos6&gt;
+[http://&lt;web.server&gt;/Ambari-2.5.0.3/](http://<web.server>/Ambari-2.5.0.3/<OS&gt)centos6
 
 **HDP Base URL**
 
