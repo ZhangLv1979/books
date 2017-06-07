@@ -1,4 +1,4 @@
-### 关闭 SELinux 、PackageKit 并检查umask Value
+### 关闭 SELinux 、PackageKit 并检查umask值
 
 1. You must disable SELinux for the Ambari setup to function. On each host in your cluster,
 
