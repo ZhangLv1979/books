@@ -1,3 +1,4 @@
-# My Awesome Book
+# 使用Apache Ambari安装HDP大数据平台
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+笔者因为工作需要，安装部署一套HDP大数据平台，在此和大家分享一些心得，并翻译原版的英文文档。.
+
