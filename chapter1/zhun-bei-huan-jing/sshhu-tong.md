@@ -34,13 +34,10 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
    chmod 600 ~/.ssh/authorized_keys
    ```
 
-6. From the Ambari Server, make sure you can connect to each host in the cluster using SSH, without having to enter a password.
+6. 从服务器运行命令测试，如果不需要任何其他操作，就可以ssh登录就行了。
 
    ```
-   ssh root@
-   <
-   remote.target.host
-   >
+   ssh root@<remote.target.host>
    ```
 
    where`<remote.target.host>`has the value of each host name in your cluster.
