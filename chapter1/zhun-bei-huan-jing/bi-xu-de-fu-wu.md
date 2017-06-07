@@ -1,4 +1,4 @@
-To install the NTP service, run the following command on each host:
+安装服务
 
 **RHEL/CentOS/Oracle 6**
 
@@ -53,8 +53,6 @@ service ntpd start
 ```
 systemctl start ntpd
 ```
-
-
 
 
 
