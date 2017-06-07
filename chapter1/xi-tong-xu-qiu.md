@@ -119,9 +119,9 @@ Ambari 主机最少需要 1 GB RAM, 500 MB 空闲的.
 
 在每台集群机上运行一下命令检查。
 
-`ulimit -Sn`
+    `ulimit -Sn`
 
-`ulimit -Hn`
+    `ulimit -Hn`
 
 小于10000的运行下面的代码来修改。
 
