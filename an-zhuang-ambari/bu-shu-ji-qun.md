@@ -12,7 +12,7 @@ http://<your.ambari.server>:8080
 
 点击Launch Install Wizard开始安装
 
-输入集群名称
+输入一个集群名称
 
 版本选择你选择的版本，我们因为是本地安装的，所以选择local repo，输入对应的baseurl。不需要全输，只需要对应的操作系统就行了。
 
