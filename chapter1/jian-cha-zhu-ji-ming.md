@@ -6,7 +6,7 @@
    vi /etc/sysconfig/network
    ```
 
-2. Modify the HOSTNAME property to set the fully qualified domain name.
+2. 打开网络，设置主机名
 
    ```
    NETWORKING=yes
