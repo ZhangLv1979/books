@@ -12,7 +12,7 @@
 
 * 在一个节点上安装全部功能是可以的，但是一般至少3个节点，1主2副。
 
-* A list of components you want to set up on each host.
+* 拟定一份需要安装在各个节点上的组件列表。
 
 * The base directories you want to use as mount points for storing:
 
