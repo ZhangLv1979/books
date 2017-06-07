@@ -18,3 +18,7 @@ http://<your.ambari.server>:8080
 
 安装选项这里，先输入你的集群的主机名，每行一个，也可以使用通配符，例如s\[1-10\].bishop.com表示s1.bishop.com到s10.bishop.com。然后在ssh key里面上传你在准备阶段准备的密码文件，id\_rsa这个文件，如果你要手动每个节点装agent，就选手动。
 
+
+
+
+
