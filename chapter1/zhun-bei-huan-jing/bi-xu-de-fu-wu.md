@@ -10,7 +10,7 @@ yum install -y ntp
 chkconfig --list ntpd
 ```
 
-1. 启动ntp服务
+3.启动ntp服务
 
 
 
