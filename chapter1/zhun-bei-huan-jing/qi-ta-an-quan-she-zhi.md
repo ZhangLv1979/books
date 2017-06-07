@@ -6,6 +6,12 @@
    setenforce 0
    ```
 
+   | 彻底关闭 SELinux，在`/etc/selinux/config 中设置`setSELINUX=disabledThis ensures that SELinux does not turn itself on after you reboot the machine . |
+   | :--- |
+
+
+   1. 
+
 2. On an installation host running RHEL/CentOS with PackageKit installed, open`/etc/yum/pluginconf.d/refresh-packagekit.conf`using a text editor. Make the following change:
 
    ```
