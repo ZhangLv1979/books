@@ -19,4 +19,5 @@
 * [安装Ambari](an-zhuang-ambari.md)
   * [安装server](an-zhuang-ambari/an-zhuang-server.md)
   * [启动sever](an-zhuang-ambari/qi-dong-sever.md)
+  * [部署集群](an-zhuang-ambari/bu-shu-ji-qun.md)
 
