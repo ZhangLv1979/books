@@ -6,7 +6,7 @@
 
 最后上图
 
-![](/assets/d1.png)
+\#\#\#Ambari![](/assets/d1.png)
 
 \#\#\#HDFS![](/assets/hdfs.png)
 
