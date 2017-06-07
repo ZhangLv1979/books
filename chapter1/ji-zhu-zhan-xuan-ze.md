@@ -6,14 +6,7 @@ Use this table to determine whether your Ambari and HDP stack versions are compa
 
 \*\* If you plan to install and manage HDP 2.3.4 \(or later\),**you must use Ambari 2.2.0 \(or later\)**. Do**not**use Ambari 2.1x with HDP 2.3.4 \(or later\).
 
-HDP 2.6
 
-|  |  | 2.5.x | ✔ | ✔ | ✔ | ✔ |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  | 2.4.x |  | ✔ | ✔ | ✔ | ✔ |
-|  |  | 2.2.2.18 |  |  | ✔ | ✔ | ✔ |
-|  |  | 2.2.1 |  |  | ✔ | ✔ | ✔ |
-|  |  | 2.2.0 |  |  |  | ✔ | ✔ |
 
 
 
