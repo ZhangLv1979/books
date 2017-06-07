@@ -19,3 +19,21 @@
 
 
 
+
+
+**Ambari 2.5.0 浏览器支持**
+
+| Operating System | Browser |
+| :--- | :--- |
+| Linux | Chrome 56.0.2924.87, 57.0.2987 |
+|  | Firefox 51, 52 |
+| Mac OS X | Chrome 56.0.2924.87, 57.0.2987 |
+|  | Firefox 51, 52 |
+|  | Safari 10.0.1, 10.0.3 |
+| Windows | Chrome 56.0.2924.87, 57.0.2987 |
+|  | Edge 38 |
+|  | Firefox 51.0.1, 52.0 |
+|  | Internet Explorer 10, 11 |
+
+
+
