@@ -40,7 +40,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
    ssh root@<remote.target.host>
    ```
 
-7. If the following warning message displays during your first connection:`Are you sure you want to continue connecting (yes/no)?`Enter`Yes`.
+7. 如果出现下面的提示，选yes，这个提示应该只出现一回，再次测试应该不会出现:`Are you sure you want to continue connecting (yes/no)?`Enter`Yes`.
 
 8. Retain a copy of the SSH Private Key on the machine from which you will run the web-based Ambari Install Wizard.
 
