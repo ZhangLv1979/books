@@ -8,5 +8,5 @@
 mkdir -p /var/www/html/
 ```
 
-
+解压你的安装压缩包到web根目录下面
 
