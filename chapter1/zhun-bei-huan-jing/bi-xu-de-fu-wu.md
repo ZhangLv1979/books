@@ -1,3 +1,5 @@
+每台节点都要
+
 安装服务
 
 **RHEL/CentOS/Oracle 6**
