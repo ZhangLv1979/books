@@ -4,3 +4,9 @@
 
 准备web根目录
 
+```
+mkdir -p /var/www/html/
+```
+
+
+
