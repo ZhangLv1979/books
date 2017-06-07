@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [准备阶段](chapter1.md)
   * [技术栈选择](chapter1/ji-zhu-zhan-xuan-ze.md)
   * [系统需求](chapter1/xi-tong-xu-qiu.md)
@@ -24,4 +24,5 @@
   * [分配服务](an-zhuang-ambari/fen-pei-fu-wu.md)
   * [分配Slave](an-zhuang-ambari/fen-pei-slave.md)
   * [Deploy！](an-zhuang-ambari/deploy.md)
+* [总结](zong-jie.md)
 
