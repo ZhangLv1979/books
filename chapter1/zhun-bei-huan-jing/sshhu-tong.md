@@ -40,8 +40,6 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
    ssh root@<remote.target.host>
    ```
 
-   where`<remote.target.host>`has the value of each host name in your cluster.
-
 7. If the following warning message displays during your first connection:`Are you sure you want to continue connecting (yes/no)?`Enter`Yes`.
 
 8. Retain a copy of the SSH Private Key on the machine from which you will run the web-based Ambari Install Wizard.
