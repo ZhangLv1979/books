@@ -6,7 +6,9 @@
   hostname -f
   ```
 
-  在一个节点上安装全部功能是可以的，但是一般至少3个节点，1主2副。
+  没有的话设置所有机器上/etc/hosts  
+
+* 在一个节点上安装全部功能是可以的，但是一般至少3个节点，1主2副。
 
 * A list of components you want to set up on each host.
 
