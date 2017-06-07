@@ -9,8 +9,7 @@
    | 彻底关闭 SELinux，在`/etc/selinux/config 中设置`SELINUX=disabled。 |
    | :--- |
 
-2. 1. On an installation host running RHEL/CentOS with PackageKit installed, open`/etc/yum/pluginconf.d/refresh-packagekit.conf`using a text editor. Make the following change:
-
+2. 修改`/etc/yum/pluginconf.d/refresh-packagekit.conf`using a text editor. Make the following change:
    ```
    enabled=0
    ```
