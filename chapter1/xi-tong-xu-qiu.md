@@ -77,7 +77,7 @@ Ambari安装中可以选择安装数据库，一般来说不必在意本节内�
 | Druid | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\* |  |
 | Hive | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | 默认安装MySQL作为Hive的Meta数据库 |
 | Oozie | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | 默认安装Derby，也可以使用已存在的其他库。 |
-| Ranger | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | You must have an existing instance of PostgreSQL , MySQL or Oracle available for Ranger. |
+| Ranger | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | 必须提供一个数据库。 |
 
 
 
