@@ -16,4 +16,6 @@
       * [下载安装文件](chapter1/zhun-bei-huan-jing/shi-yong-ben-di-an-zhuang/xia-zai-an-zhuang-wen-jian.md)
       * [设置本地安装服务](chapter1/zhun-bei-huan-jing/shi-yong-ben-di-an-zhuang/she-zhi-ben-di-an-zhuang-fu-wu.md)
       * [准备本地安装的repo文件](chapter1/zhun-bei-huan-jing/shi-yong-ben-di-an-zhuang/zhun-bei-ben-di-an-zhuang-de-repo-wen-jian.md)
+* [安装Ambari](an-zhuang-ambari.md)
+  * [安装server](an-zhuang-ambari/an-zhuang-server.md)
 
