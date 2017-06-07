@@ -56,9 +56,9 @@
   **For CentOS 7, Ubuntu 14, Ubuntu 16, and Debian 7:**  
   Python 2.7.x
 
+**HDP 2.6.0 JDK 支持**
 
-
-**HDP 2.6.0 JDK Support**
+这是最新的HDP大数据平台套件需要的JDK环境，老的版本会有降低。推荐使用JDK8
 
 | JDK | Version |
 | :--- | :--- |
