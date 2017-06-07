@@ -40,7 +40,7 @@ chkconfig ntpd on
 systemctl enable ntpd
 ```
 
-To start the NTP service, run the following command on each host:
+开始服务
 
 **RHEL/CentOS/Oracle 6**
 
