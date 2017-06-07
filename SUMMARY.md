@@ -23,4 +23,5 @@
   * [选择服务](an-zhuang-ambari/xuan-ze-fu-wu.md)
   * [分配服务](an-zhuang-ambari/fen-pei-fu-wu.md)
   * [分配Slave](an-zhuang-ambari/fen-pei-slave.md)
+  * [Deploy！](an-zhuang-ambari/deploy.md)
 
