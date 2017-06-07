@@ -15,7 +15,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
    .ssh/id_rsa.pub
    ```
 
-4. Add the SSH Public Key to the authorized\_keys file on your target hosts.
+4. 把公钥加入到每台节点机的信任列表中.
 
    ```
    cat id_rsa.pub 
