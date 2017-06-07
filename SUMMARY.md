@@ -8,5 +8,5 @@
   * [准备环境](chapter1/zhun-bei-huan-jing.md)
     * [SSH互通](chapter1/zhun-bei-huan-jing/sshhu-tong.md)
     * [设置账号](chapter1/zhun-bei-huan-jing/she-zhi-zhang-hao.md)
-    * [必须的服务](chapter1/zhun-bei-huan-jing/bi-xu-de-fu-wu.md)
+    * [必须的ntp服务](chapter1/zhun-bei-huan-jing/bi-xu-de-fu-wu.md)
 
