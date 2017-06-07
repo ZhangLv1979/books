@@ -71,9 +71,6 @@
 
 Ambari安装中可以选择安装数据库，一般来说不必在意本节内容，除非你打算使用自己已有的数据库。
 
-  
-组件
-
 | 组件 | 数据库 | 描述 |
 | :--- | :--- | :--- |
 | Ambari | PostgreSQL 9.1.13+,9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | By default, Ambari installs an instance of PostgreSQL on the Ambari Server host. Optionally, you can use an existing instance of PostgreSQL, MySQL or Oracle. |
