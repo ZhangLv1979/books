@@ -100,5 +100,18 @@ Ambari 主机最少需要 1 GB RAM, 500 MB 空闲的.
 | 1000 | 12288 MB | 200 GB |
 | 2000 | 16384 MB | 500 GB |
 
+### 空间占用
+
+|  | **Size** | **Inodes** |
+| :--- | :--- | :--- |
+| Ambari Server | 100MB | 5,000 |
+| Ambari Agent | 8MB | 1,000 |
+| Ambari Metrics Collector | 225MB | 4,000 |
+| Ambari Metrics Monitor | 1MB | 100 |
+| Ambari Metrics Hadoop Sink | 8MB | 100 |
+| After Ambari Server Setup | N/A | 4,000 |
+| After Ambari Server Start | N/A | 500 |
+| After Ambari Agent Start | N/A | 200 |
+
 
 
