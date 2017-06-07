@@ -24,7 +24,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
     authorized_keys
    ```
 
-5. 需要设置目录权限
+5. 需要设置节点机上的目录权限
 
    ```
    chmod 700 ~/.ssh
