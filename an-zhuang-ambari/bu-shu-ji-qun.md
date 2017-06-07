@@ -6,5 +6,5 @@
 http://<your.ambari.server>:8080
 ```
 
-,默认用户名:密码是admin:admin
+默认用户名:密码是admin:admin
 
