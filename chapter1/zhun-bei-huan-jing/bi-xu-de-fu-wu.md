@@ -3,5 +3,10 @@
    yum install -y ntp
    ```
 
+```
+chkconfig --list ntpd
+
+```
+
 
 
