@@ -1,6 +1,6 @@
 开始安装前，让我们先来收集一下信息。
 
-* The fully qualified domain name \(FQDN\) of each host in your system. The Ambari Cluster Install wizard supports using IP addresses. You can use
+* 全规格的主机名
 
   ```
   hostname -f
