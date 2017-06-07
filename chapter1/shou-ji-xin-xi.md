@@ -1,9 +1,9 @@
-Before deploying a cluster, you should collect the following information:
+开始安装前，让我们先来收集一下信息。
 
-* The fully qualified domain name \(FQDN\) of each host in your system. The Ambari Cluster Install wizard supports using IP addresses. You can use
+* The fully qualified domain name \(FQDN\) of each host in your system. The Ambari Cluster Install wizard supports using IP addresses. You can use
 
   ```
-  hostname -f 
+  hostname -f
   ```
 
   to check or verify the FQDN of a host.
