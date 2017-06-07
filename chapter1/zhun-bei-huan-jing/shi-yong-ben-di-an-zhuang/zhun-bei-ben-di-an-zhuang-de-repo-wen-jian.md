@@ -54,7 +54,7 @@
    /etc/apt/sources.list.d/ambari.list
    ```
 
-4. 修改`/etc/yum/pluginconf.d/priorities.conf `文件增加下面的内容
+4. 修改`/etc/yum/pluginconf.d/priorities.conf`文件增加下面的内容
 
    ```
    [main]
@@ -68,5 +68,5 @@
    gpgcheck=0
    ```
 
-**Next Steps**
+
 
