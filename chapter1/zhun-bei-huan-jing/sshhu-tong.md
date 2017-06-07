@@ -39,7 +39,7 @@ Ambari Server 需要在节点机上安装agent，因此需要可以无密码登�
 
 7. 如果出现下面的提示，选yes，这个提示应该只出现一回，再次测试应该不会出现:`Are you sure you want to continue connecting (yes/no)?`
 
-8. 备份一份密钥，请使用root，不用root也是可以的，但是可能有很多需要设置的地方，不建议。
+8. 备份一份密钥，请使用root用户，不用root也是可以的，但是可能有很多需要设置的地方，不建议。
 
 
 
