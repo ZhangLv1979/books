@@ -1,12 +1,12 @@
 ## 登录服务器
 
-1. Point your web browser to
+打开浏览器
 
-   ```
-   http://<your.ambari.server>:8080
-   ```
+```
+http://<your.ambari.server>:8080
+```
 
-   ,默认用户名:密码是admin:admin
+,默认用户名:密码是admin:admin
 
 
 
