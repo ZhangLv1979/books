@@ -17,10 +17,6 @@
 | Ubuntu \(64-bit\) | Ubuntu 16.04 \(Xenial\) |
 |  | Ubuntu 14.04 \(Trusty\) |
 
-
-
-
-
 **Ambari 2.5.0 浏览器支持**
 
 | Operating System | Browser |
@@ -34,6 +30,31 @@
 |  | Edge 38 |
 |  | Firefox 51.0.1, 52.0 |
 |  | Internet Explorer 10, 11 |
+
+### 软件环境
+
+On each of your hosts:
+
+* `yum`and`rpm`\(RHEL/CentOS/Oracle Linux\)
+
+* `zypper`and`php_curl`\(SLES\)
+
+* `apt`\(Debian/Ubuntu\)
+
+* `scp, curl, unzip, tar`, and`wget`
+
+* OpenSSL \(v1.01, build 16 or later\)
+
+* Python
+
+  **For SLES 11:**
+  Python 2.6.x
+
+  **For SLES 12:**
+  Python 2.7.x
+
+  **For CentOS 7, Ubuntu 14, Ubuntu 16, and Debian 7:**
+  Python 2.7.x
 
 
 
