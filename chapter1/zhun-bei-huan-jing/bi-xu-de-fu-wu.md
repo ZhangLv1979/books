@@ -5,7 +5,9 @@
    ```
 
 2. 检查ntp服务  
-   `chkconfig --list ntpd`
+`chkconfig --list ntpd`
 
-3. 启动ntp服务
+1. 启动ntp服务
+
+
 
