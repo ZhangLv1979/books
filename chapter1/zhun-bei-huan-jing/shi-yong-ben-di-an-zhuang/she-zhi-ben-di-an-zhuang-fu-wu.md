@@ -24,7 +24,7 @@ mkdir -p /var/www/html/
 
 [http://&lt;web.server&gt;/hdp/HDP-UTILS-&lt;version&gt;/repos/&lt;OS&gt;](http://<web.server>/hdp/HDP-UTILS-<version>/repos/<OS&gt);
 
-
-
 ![](/assets/a2.png)
+
+![](/assets/a3.png)
 
