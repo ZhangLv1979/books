@@ -3,5 +3,6 @@
    yum install -y ntp
    ```
 
+2. 检查ntp服务  
 
 
