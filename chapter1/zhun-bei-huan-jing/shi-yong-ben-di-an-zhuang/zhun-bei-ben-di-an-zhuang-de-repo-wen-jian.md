@@ -15,7 +15,7 @@
    ```
 
    ```
-   baseurl=INSERT-BASE-URL
+   baseurl=这里输入ambari的base路径
    ```
 
    ```
