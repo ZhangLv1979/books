@@ -16,5 +16,5 @@
    HOSTNAME=<fully.qualified.domain.name>
    ```
 
-
+每台主机都要做
 
