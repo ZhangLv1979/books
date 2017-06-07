@@ -10,3 +10,5 @@ http://<your.ambari.server>:8080
 
 ![](/assets/c1.png)
 
+点击Launch Install Wizard
+
