@@ -17,15 +17,14 @@
 
 3. UMASK设置成0022
 
-   **UMASK Examples**:
-
-   Setting the umask for your current login session:
+   **UMASK Examples**:  
+   设置
 
    ```
    umask 0022
    ```
 
-   Checking your current umask:
+   检查
 
    ```
    umask 0022
