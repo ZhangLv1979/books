@@ -87,7 +87,7 @@ Ambari 主机最少需要 1 GB RAM, 500 MB 空闲的.
 
 `free -m`
 
-If you plan to install the Ambari Metrics Service \(AMS\) into your cluster, you should review Using Ambari Metrics in Hortonworks Data Platform Apache Ambari Operations, for guidelines on resources requirements. In general, the host you plan to run the Ambari Metrics Collector host should have the following memory and disk space available based on cluster size:
+安装Ambari Metrics Service \(AMS\) 需要以下内存和硬盘空间
 
 | **Number of hosts** | **Memory Available** | **Disk Space** |
 | :--- | :--- | :--- |
