@@ -1,14 +1,10 @@
 ### 关闭 SELinux 、PackageKit 并检查umask值
 
-1. You must disable SELinux for the Ambari setup to function. On each host in your cluster,
+1. 每台节点都必须关掉
 
    ```
    setenforce 0
    ```
-
-   | ![](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-installation/common/images/admon/note.png "\[Note\]") | Note |
-   | :--- | :--- |
-   |  | To permanently disable SELinux setSELINUX=disabledin`/etc/selinux/config`This ensures that SELinux does not turn itself on after you reboot the machine . |
 
 2. On an installation host running RHEL/CentOS with PackageKit installed, open`/etc/yum/pluginconf.d/refresh-packagekit.conf`using a text editor. Make the following change:
 
