@@ -10,13 +10,11 @@
    | :--- |
 
 2. 修改`/etc/yum/pluginconf.d/refresh-packagekit.conf`using a text editor. Make the following change:
+
    ```
    enabled=0
    ```
 
-   | ![](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-installation/common/images/admon/note.png "\[Note\]") | Note |
-   | :--- | :--- |
-   |  | PackageKit is not enabled by default on Debian, SLES, or Ubuntu systems. Unless you have specifically enabled PackageKit, you may skip this step for a Debian, SLES, or Ubuntu installation host. |
 3. UMASK \(User Mask or User file creation MASK\) sets the default permissions or base permissions granted when a new file or folder is created on a Linux machine. Most Linux distros set 022 as the default umask value. A umask value of 022 grants read, write, execute permissions of 755 for new files or folders. A umask value of 027 grants read, write, execute permissions of 750 for new files or folders.
 
    Ambari & support umask values of 022 \(0022 is functionally equivalent\), 027 \(0027 is functionally equivalent\). These values must be set on all hosts.
