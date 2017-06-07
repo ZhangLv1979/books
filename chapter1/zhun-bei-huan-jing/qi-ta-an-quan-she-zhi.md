@@ -30,13 +30,10 @@
    umask 0022
    ```
 
-   Permanently changing the umask for all interactive users:
+   永久设置umask值
 
    ```
-   echo umask 0022 
-   >
-   >
-    /etc/profile
+   echo umask 0022 >> /etc/profile
    ```
 
 
