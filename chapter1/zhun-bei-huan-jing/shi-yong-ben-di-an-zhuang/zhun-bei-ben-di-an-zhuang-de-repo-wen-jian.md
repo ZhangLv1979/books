@@ -4,13 +4,7 @@
    http://public-repo-1.hortonworks.com/ambari/<OS>/2.x/updates/2.5.0.3/ambari.repo
    ```
 
-   where &lt;OS&gt; is centos6, centos7, sles11, sles12, ubuntu14, ubuntu16, or debian7.
-
-2. Edit the`ambari.repo`file and replace the Ambari Base URL`baseurl`obtained when setting up your local repository.
-
-   | ![](https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.0.3/bk_ambari-installation/common/images/admon/note.png "\[Note\]") | Note |
-   | :--- | :--- |
-   |  | You can disable the GPG check by setting gpgcheck =0. Alternatively, you can keep the check enabled but replace the gpgkey with the URL to the GPG-KEY in your local repository. |
+2. 按照你本地安装的目录修改repo文件.
 
    ```
    [Updates-Ambari-2.5.0.3]
