@@ -14,21 +14,5 @@
 
 * 拟定一份需要安装在各个节点上的组件列表。
 
-* The base directories you want to use as mount points for storing:
-
-  * NameNode data
-
-  * DataNodes data
-
-  * Secondary NameNode data
-
-  * Oozie data
-
-  * YARN data
-
-  * ZooKeeper data, if you install ZooKeeper
-
-  * Various log, pid, and db files, depending on your install type
-
 
 
