@@ -4,8 +4,7 @@
    yum install -y ntp
    ```
 
-检查ntp服务  
-
+2. 检查ntp服务
 
 `chkconfig --list ntpd`
 
