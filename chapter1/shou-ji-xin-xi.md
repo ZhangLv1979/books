@@ -6,7 +6,7 @@
   hostname -f
   ```
 
-  没有的话设置/etc/hosts  
+  没有的话要设置，不能使用IP， 必须使用FQDN的全规格主机域名，/etc/hosts  
   ![](/assets/hosts.png)  
   把这个文件每台机器上拷一份。
 
