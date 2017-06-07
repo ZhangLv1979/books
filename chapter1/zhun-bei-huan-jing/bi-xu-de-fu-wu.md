@@ -7,5 +7,5 @@
 2. 检查ntp服务  
    `chkconfig --list ntpd`
 
-
+3. 启动ntp服务
 
