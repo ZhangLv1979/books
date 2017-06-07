@@ -73,7 +73,7 @@ Ambari安装中可以选择安装数据库，一般来说不必在意本节内�
 
 | 组件 | 数据库 | 描述 |
 | :--- | :--- | :--- |
-| Ambari | PostgreSQL 9.1.13+,9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | By default, Ambari installs an instance of PostgreSQL on the Ambari Server host. Optionally, you can use an existing instance of PostgreSQL, MySQL or Oracle. |
+| Ambari | PostgreSQL 9.1.13+,9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | 默认安装PostgreSQL，也可以选其他已存在的。 |
 | Druid | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\* |  |
 | Hive | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | By default \(on RHEL/CentOS/Oracle Linux 6\), Ambari installs an instance of MySQL on the Hive Metastore host. Otherwise, you need to use an existing instance of PostgreSQL, MySQL or Oracle. |
 | Oozie | PostgreSQL 9.1.13+, 9.3, 9.4\*\*\*MariaDB 10\*MySQL 5.6\*\*\*\*Oracle 11gr2Oracle 12c\*\* | By default, Ambari installs an instance of Derby on the Oozie Server host. Optionally, you can use an existing instance of PostgreSQL, MySQL or Oracle.**Do Not Use the default instance of Derby for a production environment.**If you plan to use Derby for a demo, development or test environment, migration of the Oozie database from Derby to a new database is only available in the community. |
