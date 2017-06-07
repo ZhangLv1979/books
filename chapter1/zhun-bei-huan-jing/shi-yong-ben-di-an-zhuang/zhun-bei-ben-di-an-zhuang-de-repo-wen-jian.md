@@ -34,7 +34,7 @@
    priority=1
    ```
 
-3. Place the ambari.repo file on the machine you plan to use for the Ambari Server.
+3. repo文件复制到yum的repo目录下.
 
    **For RHEL/CentOS/Oracle Linux:**
 
