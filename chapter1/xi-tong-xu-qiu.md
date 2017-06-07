@@ -1,3 +1,5 @@
+### \*各节点主机最好使用
+
 ### **Ambari 2.5.0 服务器操作系统支持**
 
 | Operating System | Version |
